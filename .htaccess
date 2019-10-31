@@ -1,0 +1,16 @@
+RewriteEngine On
+RewriteRule ^index    index.php?act=index&%{QUERY_STRING}
+RewriteRule ^user_page    index.php?act=user_page&%{QUERY_STRING}
+RewriteRule ^log_in    index.php?act=log_in&%{QUERY_STRING}
+RewriteRule ^register_newuser    index.php?act=register_newuser&%{QUERY_STRING}
+RewriteRule ^logout    index.php?act=logout&%{QUERY_STRING}
+RewriteRule ^adduser    index.php?act=adduser&%{QUERY_STRING}
+RewriteRule ^profile    index.php?act=profile&%{QUERY_STRING}
+RewriteRule ^addUserData index.php?act=addUserData&%{QUERY_STRING}
+RewriteRule ^update_data index.php?act=update_data&%{QUERY_STRING}
+RewriteRule ^updateUserData index.php?act=updateUserData&%{QUERY_STRING}
+
+
+
+
+

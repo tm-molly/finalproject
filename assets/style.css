@@ -1,0 +1,48 @@
+
+body{
+
+margin: 0;
+	background-color: #E6ECF0;
+}
+.container{
+
+margin: 0;
+padding: 0;
+width: 100%;
+}
+.card_style{
+
+	margin: 1em 0 0 7em; 
+	/*padding: 0 0 0 1em;*/
+	width: 80%;
+	align-self: center;
+}
+.btn_login{
+	border-radius: 2em;
+	font-weight: bold;
+}
+.nav_class{
+	padding-left: 13em;
+}
+.nav_class2{
+text-align: right;
+}
+.rowclass{
+
+width: 100%;
+}
+.rowclass{padding: 2em 0 0 0;}
+.links_list{
+	text-decoration: none;
+}
+.deleteclass{
+	
+	text-align: right;
+}
+
+.photo img{
+	width: 20%;
+}
+.btn_follow{
+	margin: 0 100em 0 0;
+}
